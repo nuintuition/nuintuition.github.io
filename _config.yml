@@ -1,0 +1,18 @@
+# _config.yml
+title: 筆記空間
+description: "筆記空間"
+theme: jekyll-theme-hacker
+
+# Jekyll 設定
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+# 插件
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# 排除檔案
+exclude:
+  - README.md
