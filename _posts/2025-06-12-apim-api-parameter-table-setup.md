@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "在 APIM 中設置 API 參數表格的解決方案"
-date: 2025-06-12
+date: 2025-06-12T10:39:25+08:00
 categories: [Azure, APIM, JSON Schema]
 tags: [azure, apim, json-schema, table, html, api-documentation]
 ---
@@ -67,4 +67,4 @@ tags: [azure, apim, json-schema, table, html, api-documentation]
 
 ## 參考資料
 
-- [JSON Schema 物件參考文件](http://json-schema.org/understanding-json-schema/reference/object.html)
+- [JSON Schema 物件參考文件](https://json-schema.org/understanding-json-schema/reference/object.html)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASP.NET Core MVC 中API 調用的Anti-Forgery Token 驗證"
-date: 2025-06-12
+date: 2025-06-12T10:27:49+08:00
 categories: [ASP.NET Core, Security, CSRF]
 tags: [asp.net-core, mvc, anti-forgery, csrf, api, ajax]
 ---

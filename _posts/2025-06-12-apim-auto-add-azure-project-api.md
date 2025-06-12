@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "在 APIM 中自動新增 Azure 專案內的 API 設定方法"
-date: 2025-06-12
+date: 2025-06-12T10:34:51+08:00
 categories: [Azure, APIM, API Management]
 tags: [azure, apim, api-management, openapi, swagger, api-definition]
 ---

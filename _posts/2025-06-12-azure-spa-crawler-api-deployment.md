@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "在 Azure 上部署 SPA 網站爬蟲 API 的解決方案"
-date: 2025-06-12
+date: 2025-06-12T10:32:34+08:00
 categories: [Azure, Node.js, Puppeteer]
 tags: [azure, spa, crawler, api, puppeteer, headless-chrome, deployment]
 ---
