@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ".NET 8 在 Linux 環境上透過 ODBC 連線 Informix 資料庫設置指南"
+title: "使用.NET 8 在 Linux 環境上透過 ODBC 連線 Informix 資料庫設置指南"
 date: 2025-06-12T14:45:00+08:00
 categories: [.NET, Linux, Database, Docker]
 tags: [dotnet8, linux, informix, odbc, docker, database-connection, unixodbc, csdk]
