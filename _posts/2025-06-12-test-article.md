@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "測試文章 - Jekyll 網站功能驗證"
-date: 2025-06-12T16:00:00+08:00
+date: 2025-06-13T16:00:00+08:00
 categories: [測試, Jekyll]
 tags: [test, jekyll, github-pages, markdown]
 ---
