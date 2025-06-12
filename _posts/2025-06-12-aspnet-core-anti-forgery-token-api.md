@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "ASP.NET Core MVC 中API調用的Anti-Forgery Token驗證"
+title: "ASP.NET Core MVC 中API 調用的Anti-Forgery Token 驗證"
 date: 2025-06-12
 categories: [ASP.NET Core, Security, CSRF]
 tags: [asp.net-core, mvc, anti-forgery, csrf, api, ajax]
 ---
 
-# ASP.NET Core MVC 中API調用的Anti-Forgery Token驗證
 
 如果你是使用ASP.NET Core MVC當作前端框架，因為為了防範CSRF攻擊，你在執行API時沒有夾帶驗證的token那anti-forgery驗證是會把你擋下來的。為了解決這個問題，你需要取得這個token並夾帶在API中來完成驗證。以下我會使用幾個作法來達到使用API通過驗證。
 
