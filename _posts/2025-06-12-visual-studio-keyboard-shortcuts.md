@@ -6,7 +6,6 @@ categories: [Visual Studio, IDE, 開發工具]
 tags: [visual-studio, keyboard-shortcuts, 快捷鍵, 開發效率, ide]
 ---
 
-# Visual Studio 常用快捷鍵與實用功能整理
 
 我在這裡整理了一些我常用的快捷鍵與你可能忽略的一些方便特殊功能，如果你是不想改快捷鍵，又想盡量不使用到滑鼠的話，這些快捷鍵應該會對你有些幫助。
 
