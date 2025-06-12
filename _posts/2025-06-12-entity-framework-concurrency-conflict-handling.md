@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Entity Framework 處理資料競爭衝突的完整解決方案"
+title: "Entity Framework 處理資料競爭衝突的解決方案"
 date: 2025-06-12T11:26:00+08:00
 categories: [Entity Framework, .NET Core, Database]
 tags: [entity-framework, concurrency, timestamp, concurrency-check, race-condition, dbupdateconcurrencyexception]

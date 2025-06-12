@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL Server Index 自動重整與修復破碎化的完整解決方案"
+title: "SQL Server Index 自動重整與修復破碎化的解決方案"
 date: 2025-06-12T11:22:00+08:00
 categories: [SQL Server, Database, Performance]
 tags: [sql-server, index, rebuild, reorganize, fragmentation, database-maintenance, t-sql]

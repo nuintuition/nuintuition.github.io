@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azure Key Vault 在 ASP.NET Core 中的完整使用指南"
+title: "Azure Key Vault 在 ASP.NET Core 中的使用指南"
 date: 2025-06-12T11:31:00+08:00
 categories: [Azure, ASP.NET Core, Security]
 tags: [azure, key-vault, asp.net-core, security, secret-management, defaultazurecredential, azure-identity]

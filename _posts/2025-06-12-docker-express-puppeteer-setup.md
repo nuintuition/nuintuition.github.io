@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker 中使用 Express 執行 Puppeteer 的完整解決方案"
+title: "Docker 中使用 Express 執行 Puppeteer 的解決方案"
 date: 2025-06-12T10:55:00+08:00
 categories: [Docker, Node.js, Puppeteer]
 tags: [docker, express, puppeteer, linux, chrome, sandbox, dockerfile]

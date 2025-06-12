@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用 Fetch API 下載檔案的完整解決方案"
+title: "使用 Fetch API 下載檔案的簡易方案"
 date: 2025-06-12T10:59:00+08:00
 categories: [Web API, JavaScript, ASP.NET Core]
 tags: [fetch, download, file, api, blob, objecturl, content-disposition, asp.net-core]
