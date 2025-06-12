@@ -6,7 +6,6 @@ categories: [Visual Studio, IDE, 開發工具]
 tags: [visual-studio, keyboard-shortcuts, 快捷鍵, 開發效率, ide]
 ---
 
-
 我在這裡整理了一些我常用的快捷鍵與你可能忽略的一些方便特殊功能，如果你是不想改快捷鍵，又想盡量不使用到滑鼠的話，這些快捷鍵應該會對你有些幫助。
 
 ## 游標操作
@@ -29,13 +28,16 @@ tags: [visual-studio, keyboard-shortcuts, 快捷鍵, 開發效率, ide]
 這是個重構快捷鍵，如果你的程式碼有出現燈泡，或是底下有三個小點的提示，則可以使用這個快捷鍵來讓Visual Studio協助你重構程式碼。
 
 **提示有可以修改的部分**
-![重構提示](https://blogger.googleusercontent.com/img/a/AVvXsEiFsvuKGjcNuQhAP_EFjEPuNJn4f3aFBSft6jkKSOOrK9oZUcPAqYWBvku3uEgSWPi2ZD5nGSEaoqwOlB70IdQlrJOuVK95B_BSO_I6JKu83rXdlvZkQNfUqTqWBBCQQ6j-nyddKG0vwf0HbT0gieb_DDwVnV7M5UA6gVr_C3dmG6sfFvZ9yLhUCHA=w640-h118)
+
+![重構提示](/assets/images/visual-studio/refactor-tip.png)
 
 **Alt + Enter 查看建議項目**
-![建議項目](https://blogger.googleusercontent.com/img/a/AVvXsEhvwWukYj6VVCCvu3s518BFsCs6dCE7DzAyqqZr19dJ6gHxsb5t4uv7PP2I9FY4PMBcH--Ok3o3p9ZkAWPtWKasNtUmb1goZTdqGEX5t9dsiV7TxP0XGD1pNb_kqfhEt70-9OyPOptIDFy4nsX7Vhp2a4YVQzHCRbG-YFPLo4R0PqwRh-E4JyRGc6c=w640-h138)
+
+![建議項目](/assets/images/visual-studio/alt-enter-suggestions.png)
 
 **自動重構**
-![自動重構](https://blogger.googleusercontent.com/img/a/AVvXsEj8lMoOVOcUMWBp5PGHQJHVESHYuOg4mSJk204ODEWZRH_60J2iDUbB0nQtuhRxne6y_yaCspKCP_FdEBbWVF6dbvTCz6hwzEU8g-kweSJpRs5_pnLQnJfC5uw1rkh8Xu6l-MKCQBuDmljSAHlqq-YaIPZZSwy6GSOS5zyiTHUy_FbOp7b3dtUNENU=w640-h122)
+
+![自動重構](/assets/images/visual-studio/auto-refactor.png)
 
 ### F12、Ctrl + F12、Shift + F12
 到了開發都以物件導向為主後，**F12** 就成了使用率非常高的快捷鍵，非常建議習慣使用他。
