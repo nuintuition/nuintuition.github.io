@@ -1,6 +1,7 @@
 # _config.yml
 title: 筆記空間
 description: "程式開發筆記"
+author: "nuintuition"
 theme: jekyll-theme-hacker
 
 # Jekyll 設定
