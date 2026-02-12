@@ -5,8 +5,6 @@ categories: [Docker, DevOps]
 tags: [Docker-Compose, .NET, Networking]
 ---
 
-# Docker Compose 學習筆記：從架構到網路細節
-
 在使用ASP.NET實作一個包含 **Gateway (YARP)** 與兩個 **ASP.NET Core Web App** 的微服務架構時，我們深入了解了 Docker Compose 的運作機制，在這邊記錄下來。以下是本專案的核心配置檔案：
 
 ### 🛠️ 專案配置範本
